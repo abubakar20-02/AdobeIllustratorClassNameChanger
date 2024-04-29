@@ -1,9 +1,6 @@
 import xml.etree.ElementTree as ET
 import re
 
-import xml.etree.ElementTree as ET
-import re
-
 
 def update_svg_classes_and_styles(svg_file, class_names, filename):
     # Register the SVG namespace
